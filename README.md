@@ -118,13 +118,13 @@ Exemplos:
 
 ## ▶️ Como Executar
 
-### 1. Clonar o repositório
+### 1. Clonar o repositório 
 
 ```bash
 git clone https://github.com/gabrielinacio19/projeto-ciencia-de-dados-vendas.git
 ```
 
-### 2. Instalar as dependências
+### 2. Instalar as dependências 
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
