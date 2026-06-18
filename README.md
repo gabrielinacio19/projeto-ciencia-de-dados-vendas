@@ -1,4 +1,4 @@
-# 📊 Projeto de Ciência de Dados Aplicado à Análise de Vendas
+# 📊 Previsão de Ruptura de Estoques de Vendas
 
 ## 📌 Sobre o Projeto
 
@@ -154,8 +154,8 @@ O projeto permitiu:
 
 ## 👨‍💻 Autores
 
-Fabricio Lucas
-Gabriel Coatti
+Fabricio Lucas,
+Gabriel Coatti e
 Gabriel Inácio
 
 Projeto desenvolvido para fins acadêmicos na disciplina de Ciência de Dados.
